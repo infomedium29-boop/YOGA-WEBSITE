@@ -1,8 +1,21 @@
 const toggle = document.querySelector('.menu-toggle');
 const links = document.querySelectorAll('.nav-links a');
+const closeMenu = () => {
+  document.body.classList.remove('menu-open');
+  if (toggle) toggle.setAttribute('aria-expanded', 'false');
+};
 if (toggle) {
-  toggle.addEventListener('click', () => document.body.classList.toggle('menu-open'));
-  links.forEach(link => link.addEventListener('click', () => document.body.classList.remove('menu-open')));
+  toggle.addEventListener('click', () => {
+    const isOpen = document.body.classList.toggle('menu-open');
+    toggle.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
+  });
+  links.forEach(link => link.addEventListener('click', closeMenu));
+  window.addEventListener('resize', () => {
+    if (window.innerWidth > 1180) closeMenu();
+  });
+  document.addEventListener('keydown', (event) => {
+    if (event.key === 'Escape') closeMenu();
+  });
 }
 
 const path = window.location.pathname.split('/').pop() || 'index.html';
