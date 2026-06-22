@@ -1,0 +1,66 @@
+# Premium Yoga Studio - Full Website Context
+
+Premium Yoga Studio is a light, modern and responsive static HTML website prepared for a yoga instructor or yoga studio. The website is designed for a calm, premium wellness impression with soft colors, elegant typography, AVIF photography and clear calls to action.
+
+The website is written in Croatian and includes the following public pages:
+
+## Home
+
+The home page introduces the studio as a place where the body calms down and the mind returns to itself. It presents yoga as a gentle, modern and professional practice for beginners and experienced participants. The page highlights individual approach, sixty-minute mindful movement and breathing, and a calm atmosphere without pressure.
+
+Main services introduced on the home page include morning awakening sessions, evening relaxation sessions and individual work. The page also explains that the method combines movement, breathing and short moments of stillness to help participants feel stability, strength and softness.
+
+## About
+
+The about page presents the yoga instructor and studio approach. It focuses on gentle guidance, safety, calm communication, mindful movement and respect for the needs of each participant. It is prepared so the client can later personalize biography, certificates and real experience.
+
+## Programs
+
+The programs page presents several yoga options:
+
+- Hatha yoga: a stable and calm class suitable for beginners and people who want clear technique.
+- Vinyasa flow: a more dynamic class for strength, focus and connecting breath with movement.
+- Yin & Relax: a slower class for deeper stretching, nervous system regulation and evening release of tension.
+- Private yoga session: individual work based on personal goals, current body needs and preferred pace.
+
+## Schedule
+
+The schedule page presents a simple weekly yoga class structure. It is prepared so real dates, class times, prices and availability can be added later. The goal is to help visitors quickly understand available options and reserve a first class.
+
+## Gallery
+
+The gallery page contains AVIF visuals showing a bright premium yoga studio, group practice, private guidance and calming studio details. The visuals support the light wellness aesthetic of the website.
+
+## Contact
+
+The contact page contains a reservation/contact form, placeholder email, phone and address data, and a section for map/location information. The page is prepared for easy personalization once the client provides real contact details.
+
+## Legal pages
+
+The website includes a privacy policy and cookie policy page for basic legal transparency. It also includes robots.txt, sitemap.xml, llms.txt and llms-full.txt to support indexing, crawling and AI-agent accessibility.
+
+## Technical details
+
+- Static HTML, CSS and JavaScript
+- Responsive design for desktop, tablet and mobile devices
+- AVIF image assets for improved performance
+- SEO metadata on pages
+- XML sitemap
+- robots.txt
+- llms.txt and llms-full.txt for AI-agent readability
+- Cookie banner and legal policy pages
+- Suitable for GitHub Pages and Cloudflare Pages deployment
+
+## Important links
+
+- Home: https://www.vasa-domena.hr/
+- About: https://www.vasa-domena.hr/o-nama.html
+- Programs: https://www.vasa-domena.hr/programi.html
+- Schedule: https://www.vasa-domena.hr/raspored.html
+- Gallery: https://www.vasa-domena.hr/galerija.html
+- Contact: https://www.vasa-domena.hr/kontakt.html
+- Privacy Policy: https://www.vasa-domena.hr/politika-privatnosti.html
+- Cookie Policy: https://www.vasa-domena.hr/politika-kolacica.html
+- Sitemap: https://www.vasa-domena.hr/sitemap.xml
+- Robots: https://www.vasa-domena.hr/robots.txt
+- LLMs: https://www.vasa-domena.hr/llms.txt

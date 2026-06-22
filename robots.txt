@@ -2,3 +2,6 @@ User-agent: *
 Allow: /
 
 Sitemap: https://www.vasa-domena.hr/sitemap.xml
+
+# AI agent guidance
+# See: https://www.vasa-domena.hr/llms.txt

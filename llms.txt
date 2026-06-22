@@ -1,0 +1,34 @@
+# Premium Yoga Studio
+
+> Premium light website for a yoga instructor or yoga studio, focused on mindful movement, private sessions, group classes, breathing, relaxation and a calm wellness experience.
+
+This website presents a modern yoga studio with a soft visual identity, clear service pages, class schedule information, gallery, contact details and legal pages. It is a static HTML website prepared for fast hosting on GitHub Pages or Cloudflare Pages.
+
+## Main pages
+
+- [Home](https://www.vasa-domena.hr/): Overview of the yoga studio, positioning, main benefits, programs and calls to action.
+- [About](https://www.vasa-domena.hr/o-nama.html): Introduction to the yoga instructor, teaching approach, values and studio atmosphere.
+- [Programs](https://www.vasa-domena.hr/programi.html): Yoga program overview, including Hatha yoga, Vinyasa flow, Yin & Relax and private sessions.
+- [Schedule](https://www.vasa-domena.hr/raspored.html): Weekly yoga class schedule and guidance for choosing a class.
+- [Gallery](https://www.vasa-domena.hr/galerija.html): Visual overview of the studio, yoga practice and wellness atmosphere.
+- [Contact](https://www.vasa-domena.hr/kontakt.html): Contact form, phone, email, address placeholder and reservation call to action.
+
+## Legal and technical pages
+
+- [Privacy Policy](https://www.vasa-domena.hr/politika-privatnosti.html): Privacy information for website visitors and contact form users.
+- [Cookie Policy](https://www.vasa-domena.hr/politika-kolacica.html): Cookie information and consent details.
+- [Sitemap](https://www.vasa-domena.hr/sitemap.xml): XML sitemap with the main public pages.
+- [Robots](https://www.vasa-domena.hr/robots.txt): Crawling instructions for web robots.
+
+## Website facts
+
+- Language: Croatian
+- Type: Static HTML website
+- Topic: Yoga studio, yoga instructor, mindful movement, wellness, relaxation
+- Hosting target: GitHub Pages or Cloudflare Pages
+- Image format: AVIF
+- Primary audience: People looking for yoga classes, private yoga sessions and a calm wellness practice
+
+## Optional context
+
+- [Full LLM context](https://www.vasa-domena.hr/llms-full.txt): Extended plain-text summary of the website content for AI agents.

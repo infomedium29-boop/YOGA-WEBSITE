@@ -20,3 +20,7 @@ Deploy:
 - Povezati repository s Cloudflare Pages.
 - Build command ostaviti prazno.
 - Output directory ostaviti kao root folder projekta.
+
+AI agent support:
+- llms.txt
+- llms-full.txt
